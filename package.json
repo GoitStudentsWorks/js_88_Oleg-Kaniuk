@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/delicious-food-project/",
+    "build": "vite build --base=/js_88_Oleg-Kaniuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
